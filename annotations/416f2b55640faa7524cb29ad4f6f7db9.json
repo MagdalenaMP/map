@@ -1,0 +1,92 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "pencil",
+      "@type" : "oa:Tag",
+      "chars" : "pencil"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mss",
+      "@type" : "oa:Tag",
+      "chars" : "mss"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "title",
+      "@type" : "oa:Tag",
+      "chars" : "title"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "NEW MAP OF LONDON",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>NEW MAP OF LONDON</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/97958218",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-01-19T19:13:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642619586593",
+    "dcterms:modified" : "2022-01-19T19:13:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MagdalenaMP.github.io/map/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4240,0,1652,86"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5892.40605,85.50234h-826.20234v0h-826.20234v-42.75117v-42.75117h826.20234h826.20234v42.75117z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1901900d-d99d-460b-ba77-6bc1bee5420d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4c071399-6745-418c-87e6-4ea495c644ff"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "pencil",
+      "@type" : "oa:Tag",
+      "chars" : "pencil"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mss",
+      "@type" : "oa:Tag",
+      "chars" : "mss"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "LANGLEY &amp; BELCH'S",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>LANGLEY &amp; BELCH'S</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/97958218",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-01-19T19:11:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642619475021",
+    "dcterms:modified" : "2022-01-19T19:11:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MagdalenaMP.github.io/map/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=8,9,1626,136"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7.66916,8.68342h812.9403v0h812.9403v68.15296v68.15296h-812.9403h-812.9403v-68.15296z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_804a1c0c-7038-4ecd-bfcd-22275284354d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4c071399-6745-418c-87e6-4ea495c644ff"
+    } ]
+  } ],
+  "@id" : "https://MagdalenaMP.github.io/map/annotations/416f2b55640faa7524cb29ad4f6f7db9.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
