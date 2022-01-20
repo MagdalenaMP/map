@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://MagdalenaMP.github.io/map/manifests/manifest.json",
     "label" : "Langley & Belch’s new map of London - proof impression"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://MagdalenaMP.github.io/map/manifests/manifest4.json",
+    "label" : "Langley & Belch’s new map of London"
   } ]
 }
