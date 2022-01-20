@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Admiralty building vignette&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Admiralty building vignette&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/97958218",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-20T18:53:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642704828627",
+    "dcterms:modified" : "2022-01-20T18:53:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MagdalenaMP.github.io/map/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=417,3554,473,390"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M417.16769,3553.87478h236.30408v0h236.30408v195.06261v195.06261h-236.30408h-236.30408v-195.06261z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6ef4bb45-ee4a-4d73-b685-7e4551ca67a7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3d515aef-ea70-4b24-9485-45a2d3746453"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "NEW MAP OF LONDON",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>NEW MAP OF LONDON</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/97958218",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-20T18:57:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642705051068",
+    "dcterms:modified" : "2022-01-20T18:57:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MagdalenaMP.github.io/map/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4274,0,1636,99"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4274.39412,98.91493h817.78024v0h817.78024v-49.45747v-49.45747h-817.78024h-817.78024v49.45747z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ce5963f2-82ad-4e2f-8f12-b6055f25e024\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3d515aef-ea70-4b24-9485-45a2d3746453"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Regents Park development described in&nbsp;<a href=\"http://access.bl.uk/item/viewer/ark:/81055/vdc_100025710393.0x000001#?c=0&amp;m=0&amp;s=0&amp;cv=2&amp;xywh=-594%2C-89%2C2223%2C1779\" target=\"_blank\" rel=\"noopener\">Second edition of Langley and Belch's street-directory\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Regents Park development described in&nbsp;<a href=\"http://access.bl.uk/item/viewer/ark:/81055/vdc_100025710393.0x000001#?c=0&amp;m=0&amp;s=0&amp;cv=2&amp;xywh=-594%2C-89%2C2223%2C1779\" target=\"_blank\" rel=\"noopener\"><em>Second edition of Langley and Belch's street-directory</em></a></p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/97958218",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-20T18:52:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642704764462",
+    "dcterms:modified" : "2022-01-20T19:00:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MagdalenaMP.github.io/map/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=554,487,837,609"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M553.79587,487.33128h418.47498v0h418.47498v304.61817v304.61817h-418.47498h-418.47498v-304.61817z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_c0ac24c4-3776-4f00-9eaa-35955c893ffd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3.65421\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3d515aef-ea70-4b24-9485-45a2d3746453"
+    } ]
+  } ],
+  "@id" : "https://MagdalenaMP.github.io/map/annotations/df9207ed4745f06bdc995f22ba374ea0.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
