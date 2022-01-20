@@ -1,0 +1,125 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://MagdalenaMP.github.io/map/manifests/manifest4.json",
+  "@type" : "sc:Manifest",
+  "label" : "Langley & Belch’s new map of London",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Proof impression before letters with titles added in hand. First published in 1812.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "The British Library, Crace Collection of Maps of London",
+  "sequences" : [ {
+    "@id" : "http://87eddf90-a065-47e6-b39e-67ac79fb7c10",
+    "@type" : "sc:Sequence",
+    "label" : "Normal Sequence",
+    "canvases" : [ {
+      "@id" : "http://3d515aef-ea70-4b24-9485-45a2d3746453",
+      "@type" : "sc:Canvas",
+      "label" : "Langley & Belch’s new map of London",
+      "height" : 3944,
+      "width" : 5929,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://33fc2ac1-b0aa-4fb6-ad55-8c57372694b8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/007-zzz-000000006-u-00189000/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/007-zzz-000000006-u-00189000",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3944,
+          "width" : 5929
+        },
+        "on" : "http://3d515aef-ea70-4b24-9485-45a2d3746453"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6110cea6-d90b-44a0-a611-90d8ec96dd95",
+      "@type" : "sc:Canvas",
+      "label" : "Detail 1",
+      "height" : 484,
+      "width" : 3107,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5840fa32-043a-496d-aee5-0ea9503d9718",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/007-zzz-000000006-u-00189000detail-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/007-zzz-000000006-u-00189000detail-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 484,
+          "width" : 3107
+        },
+        "on" : "http://6110cea6-d90b-44a0-a611-90d8ec96dd95"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1c0ff564-b436-4d5e-9168-f59f0380ea8c",
+      "@type" : "sc:Canvas",
+      "label" : "Detail 2",
+      "height" : 725,
+      "width" : 2656,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cbe1d5d1-7deb-4c96-93ed-648635049973",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/007-zzz-000000006-u-00189000detail-2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/007-zzz-000000006-u-00189000detail-2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 725,
+          "width" : 2656
+        },
+        "on" : "http://1c0ff564-b436-4d5e-9168-f59f0380ea8c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9a1465b4-aa92-478a-abaa-3188bf84f02b",
+      "@type" : "sc:Canvas",
+      "label" : "Detail 3",
+      "height" : 452,
+      "width" : "0",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b1d943e0-546f-4c6e-8f6b-523e07392c74",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/007-zzz-000000006-u-00189000detail-3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/007-zzz-000000006-u-00189000detail-3",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 452,
+          "width" : 2828
+        },
+        "on" : "http://9a1465b4-aa92-478a-abaa-3188bf84f02b"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "viewingDirection" : "left-to-right"
+}
