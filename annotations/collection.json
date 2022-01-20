@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://MagdalenaMP.github.io/map/annotations/416f2b55640faa7524cb29ad4f6f7db9.json" ],
+  "otherContent" : [ "https://MagdalenaMP.github.io/map/annotations/416f2b55640faa7524cb29ad4f6f7db9.json", "https://MagdalenaMP.github.io/map/annotations/df9207ed4745f06bdc995f22ba374ea0.json" ],
   "@id" : "https://MagdalenaMP.github.io/map/annotations/collection.json",
   "label" : "All annotations loaded in MagdalenaMP/map project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
